@@ -1,4 +1,4 @@
-const DEPLOY_URL = "http://colemanb.moraviancs.click";
+const DEPLOY_URL = "http://shifmans.moraviancs.click";
 
 const API_BASE =
   location.hostname === "127.0.0.1" || location.hostname === "localhost"
