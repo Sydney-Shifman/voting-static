@@ -10,7 +10,7 @@
 # Exit on error, undefined variable, or failure in a pipeline.
 set -euo pipefail
 
-REPO_URL="https://github.com/bjcoleman/voting-static.git"
+REPO_URL="https://github.com/Sydney-Shifman/voting-static.git"
 
 APP_DIR=/home/ec2-user/voting-static
 DYNAMODB_ZIP_URL="https://s3.us-west-2.amazonaws.com/dynamodb-local/v2.x/dynamodb_local_latest.zip"
